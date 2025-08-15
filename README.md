@@ -21,7 +21,7 @@ I'm a passionate **Computer Science** student with a strong inclination towards 
   <a href="https://www.instagram.com/shreelytical/">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/vbhargav0310/">
+  <a href="https://leetcode.com/u/shreeyalisingh26/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 </p>
