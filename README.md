@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img width="1584" height="396" alt="Black and Beige Modern Handwriting Professional Business LinkedIn Banner" src="./black.png" />
+  <img width="1584" height="396" src="./black.png" />
 
 </p>
 
