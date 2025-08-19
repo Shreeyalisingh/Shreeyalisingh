@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img width="1584" height="396" src="./black.png" />
+  <img width="1584" height="396" src="./shreeyali.png" />
 
 </p>
 
